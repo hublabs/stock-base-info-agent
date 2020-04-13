@@ -1,0 +1,2 @@
+defaultSqlServerConnection: "server=localhost;user id=SA;password=yourStrong(!)Password;database=CSL;connection timeout=30"
+defaultMysqlConnection: "root:@tcp(localhost:3306)/hublabs_delivery?charset=utf8&parseTime=True&loc=UTC"

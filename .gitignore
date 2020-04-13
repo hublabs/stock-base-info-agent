@@ -1,0 +1,13 @@
+stock-base-info-agent
+*.exe
+*.db
+tmp
+coverage.out
+.DS_Store
+.vscode/
+.idea/
+request/
+*.zip
+*.gz
+go.sum
+http-client.env.json
